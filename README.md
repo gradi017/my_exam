@@ -37,4 +37,7 @@ An Android app for managing song playlists with ratings and comments, built with
   - `MutableList` for dynamic storage
   - `Intents` for navigation
   - `Toast` for user feedback
+![mainPage](https://github.com/user-attachments/assets/33c9feb9-3b09-4acf-affd-300ff9a51228)
+![reviewPage](https://github.com/user-attachments/assets/ffa369e0-32ae-4c27-9524-ba56b1978ac4)
+
 
